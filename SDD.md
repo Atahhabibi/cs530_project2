@@ -71,5 +71,3 @@ This project implements a **two-pass assembler** for the **SIC/XE machine archit
   - Test files (`.sic` input files, `.l` and `.st` outputs).
   - `README.md`.
   - `SDD.pdf` (converted from this document for final submission).
-
-✅ **Submitted on time as per course requirements.**
